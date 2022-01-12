@@ -42,7 +42,7 @@ Create a report to answer our colleague's questions. Include:
    * Python3 
 2. Libraries
    * Pandas
-   * Matlibplot
+   * Matplotlib
 
 ## Project Setup
 * Clone project
